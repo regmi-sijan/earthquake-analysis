@@ -1,0 +1,1 @@
+"""Earthquake catalogue analysis utilities."""
